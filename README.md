@@ -1,1 +1,1 @@
-# SSAFY_Algo_1st
+# SSAFY_Algo
