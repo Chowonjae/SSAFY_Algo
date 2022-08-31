@@ -9,7 +9,6 @@ public class Main {
 	static int arrN[][],arrM[][];
 	
 	public static boolean flip(int startA, int startB) { 
-		// arrN 과 arrM이 같지 않을때 뒤집을 함수
 		
 		if(startA > n || startB+3 > m) { 
 			return false; 
